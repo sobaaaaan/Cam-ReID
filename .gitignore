@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+config.yaml
+captures/
+logs/
+models/youtu_reid_baseline_large.onnx
+*.jpg
+*.png
+*.mp4
